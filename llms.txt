@@ -1,0 +1,47 @@
+# Geotecnia1 — Maringa
+
+> Geotechnical engineering services in Maringa, Brasil.
+
+## Services
+- [Ancoragens](https://maringa.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://maringa.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://maringa.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://maringa.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://maringa.geotecnia1.org/ensaio-cpt/)
+- [Ensaio Placa Carga](https://maringa.geotecnia1.org/ensaio-placa-carga/)
+- [Escavacoes](https://maringa.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://maringa.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://maringa.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://maringa.geotecnia1.org/estacas/)
+- [Fundacoes](https://maringa.geotecnia1.org/fundacoes/)
+- [Geofisica](https://maringa.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://maringa.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://maringa.geotecnia1.org/granulometria/)
+- [Injecoes](https://maringa.geotecnia1.org/injecoes/)
+- [Investigacao](https://maringa.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://maringa.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://maringa.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://maringa.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://maringa.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://maringa.geotecnia1.org/liquefacao/)
+- [Melhoramento](https://maringa.geotecnia1.org/melhoramento/)
+- [Monitoramento Escavacoes](https://maringa.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://maringa.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://maringa.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://maringa.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://maringa.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://maringa.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://maringa.geotecnia1.org/radiers/)
+- [Resistividade](https://maringa.geotecnia1.org/resistividade/)
+- [Sapatas](https://maringa.geotecnia1.org/sapatas/)
+- [Sismica](https://maringa.geotecnia1.org/sismica/)
+- [Taludes](https://maringa.geotecnia1.org/taludes/)
+- [Tuneis Solo Mole](https://maringa.geotecnia1.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://maringa.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://maringa.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Maringa, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
